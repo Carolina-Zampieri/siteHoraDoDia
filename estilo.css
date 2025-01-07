@@ -1,0 +1,31 @@
+body {
+    /* background-image: url('img/manha.jpg');*/
+    background-size: cover;
+    background-attachment: fixed;
+    font: normal 16pt Calibri;
+    transition: background-image 0.2s ease-in-out;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section {
+    background: rgba(255, 255, 255, 0.452);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;  /* largura fixa */
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(170, 170, 170, 0.404);
+    text-align: center;
+}
+
+
+footer {
+    color: rgba(255, 255, 255, 0.425);
+    text-align: center;
+    font-style: italic;
+    font-size: 9pt;
+    margin-top: 25px;
+}
