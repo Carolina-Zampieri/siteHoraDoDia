@@ -1,7 +1,7 @@
 # Site Hora Do Dia
 
 #### Estudos JS
-Desenvolvi essa página web utilisando condição para mostrar o horário atual e trocar a imagem de fundo de acordo com o período do dia.
+Desenvolvi essa página web utilizando condição para mostrar o horário atual e trocar a imagem de fundo de acordo com o período do dia.
 
 ## GitHub Stats
 
